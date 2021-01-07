@@ -1,0 +1,62 @@
+[
+    {
+        "id": 5,
+        "key": 5,
+        "picture": "/assets/Lost-Artist.jpg",
+        "name": "Lost Artist",
+        "description": "Lost Artist Clothing Collaboration is a place where fashion designers from the upper midwest states - locations typically overlooked in the fashion community - can feature and sell their work. We give designers the ability to create profiles to share who they are, their experience, and a platform for shoppers to connect with them for potentially commissioned work, exposure, and a place to show support for their local designers and community.",
+        "technologies": "HTML/CSS/Javascript, React, Node/NPM, VS Code, auth0, firebase, mySQL, Bulma, Stripe, Heroku",
+        "gitHub": "https://github.com/grantscriver/Lost-Artist",
+        "site": "https://shielded-inlet-41475.herokuapp.com/"
+    },
+    {
+        "id": 2,
+        "key": 2,
+        "picture": "/assets/WeatherDashComp.gif",
+        "name": "Weather Dashboard",
+        "description": "This application will help users find different weather facts for whatever city they type in. It will give the current and forecast weather through the use of an API.",
+        "technologies": "HTML/CSS/Javascript, Bootstrap, OpenWeather API, jQuery, GitHub Pages",
+        "gitHub": "https://github.com/grantscriver/My-Portfolio/tree/master/Projects/Weather-Dashboard",
+        "site": "https://grantscriver.github.io/My-Portfolio/Projects/Weather-Dashboard/Develop/index.html"
+    },
+    {
+        "id": 3,
+        "key": 3,
+        "picture": "/assets/SchedulerComp.gif",
+        "name": "Work Day Scheduler",
+        "description": "This work day scheduler will be able to save different activities that a user inputs from the description box. The description box will then change colors based on what the current time is. If the current hour is in the past the box will turn grey, while if the current hour is equal to the boxes hour it will turn pink, and lastly if the boxes time is in the future of the day it will be green.",
+        "technologies": "HTML/CSS/Javascript, Bootstrap, jQuery, Font Awesome, Google Fonts, Moment.js, GitHub Pages",
+        "gitHub": "https://github.com/grantscriver/My-Portfolio/tree/master/Projects/Work-Day-Scheduler",
+        "site": "https://grantscriver.github.io/My-Portfolio/Projects/Work-Day-Scheduler/Develop/index.html"
+    },
+    {
+        "id": 4,
+        "key": 4,
+        "picture": "/assets/stats.jpg",
+        "name": "Workout Tracker",
+        "description": "This app helps you keep track of your daily workouts by allowing you to enter multiple exercises for a given workout. The exercises can be either resistance or cardio. Based off what you choose there is different required inputs that will be tracked. A summary of the last workout is displayed after entering data and upon launching the app.",
+        "technologies": "HTML/CSS/Javascript, Node.js, Express, Mongoose, MongoDB, Heroku",
+        "gitHub": "https://github.com/grantscriver/Workout-Tracker",
+        "site": "https://nameless-dusk-72885.herokuapp.com/"
+    },
+    {
+        "id": 1,
+        "key": 1,
+        "picture": "/assets/MotivationStationComp.gif",
+        "name": "Motivation Station",
+        "description": "When this website is loaded, the user is greeted with a random image from the Harvard Museum of Art. The user is then prompted to click a button, that will generate a random quote from the QuoteGarden API. If the user likes the quote, they are able to save it to a list. The user can then \"tweet\" any saved quotes on that list directly to their twitter feed using the Twitter API.",
+        "technologies": "HTML/CSS/Javascript, Foundation, jQuery, QuoteGarden API, Harvard Art Museum API, Twitter API, GitHub pages",
+        "gitHub": "https://github.com/TomOverland/Motivation-Station",
+        "site": "https://tomoverland.github.io/Motivation-Station/"
+    },
+    {
+        "id": 6,
+        "key": 6,
+        "picture": "/assets/EmployeeDirectoryComp.gif",
+        "name": "Employee Directory",
+        "description": "This React app uses an API call to populate employee data. Each employee can be filtered by Name, Phone Number, Email, or Nationality. Users are also able to search for a specific employee using the search bar.",
+        "technologies": "HTML/CSS/Javascript, Node.js, Random User Generator API, GitHub Pages",
+        "gitHub": "https://github.com/grantscriver/Employee-Directory",
+        "site": "https://grantscriver.github.io/Employee-Directory/"
+    }
+]
