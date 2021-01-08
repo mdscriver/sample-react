@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/sample-react/static/css/main.16c24c4c.chunk.css",
-    "main.js": "/sample-react/static/js/main.7f975646.chunk.js",
-    "main.js.map": "/sample-react/static/js/main.7f975646.chunk.js.map",
-    "runtime-main.js": "/sample-react/static/js/runtime-main.ef76b3a1.js",
-    "runtime-main.js.map": "/sample-react/static/js/runtime-main.ef76b3a1.js.map",
+    "main.js": "/sample-react/static/js/main.4a98432d.chunk.js",
+    "main.js.map": "/sample-react/static/js/main.4a98432d.chunk.js.map",
+    "runtime-main.js": "/sample-react/static/js/runtime-main.940aedf2.js",
+    "runtime-main.js.map": "/sample-react/static/js/runtime-main.940aedf2.js.map",
     "static/css/2.1a02f21c.chunk.css": "/sample-react/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.0b305ae3.chunk.js": "/sample-react/static/js/2.0b305ae3.chunk.js",
-    "static/js/2.0b305ae3.chunk.js.map": "/sample-react/static/js/2.0b305ae3.chunk.js.map",
-    "static/js/3.fd0f2b9f.chunk.js": "/sample-react/static/js/3.fd0f2b9f.chunk.js",
-    "static/js/3.fd0f2b9f.chunk.js.map": "/sample-react/static/js/3.fd0f2b9f.chunk.js.map",
+    "static/js/2.93954697.chunk.js": "/sample-react/static/js/2.93954697.chunk.js",
+    "static/js/2.93954697.chunk.js.map": "/sample-react/static/js/2.93954697.chunk.js.map",
+    "static/js/3.e63c9825.chunk.js": "/sample-react/static/js/3.e63c9825.chunk.js",
+    "static/js/3.e63c9825.chunk.js.map": "/sample-react/static/js/3.e63c9825.chunk.js.map",
     "index.html": "/sample-react/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/sample-react/static/css/2.1a02f21c.chunk.css.map",
     "static/css/main.16c24c4c.chunk.css.map": "/sample-react/static/css/main.16c24c4c.chunk.css.map",
-    "static/js/2.0b305ae3.chunk.js.LICENSE.txt": "/sample-react/static/js/2.0b305ae3.chunk.js.LICENSE.txt",
+    "static/js/2.93954697.chunk.js.LICENSE.txt": "/sample-react/static/js/2.93954697.chunk.js.LICENSE.txt",
     "static/media/PortraitComp.486cafc6.jpg": "/sample-react/static/media/PortraitComp.486cafc6.jpg",
     "static/media/logo.6ce24c58.svg": "/sample-react/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ef76b3a1.js",
+    "static/js/runtime-main.940aedf2.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.0b305ae3.chunk.js",
+    "static/js/2.93954697.chunk.js",
     "static/css/main.16c24c4c.chunk.css",
-    "static/js/main.7f975646.chunk.js"
+    "static/js/main.4a98432d.chunk.js"
   ]
 }
