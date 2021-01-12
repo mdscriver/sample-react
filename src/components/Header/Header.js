@@ -1,13 +1,18 @@
 import React from "react"
-// import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import "./Header.css";
-// import Navbar from 'react-bootstrap/Navbar'
+import Navbar from 'react-bootstrap/Navbar'
 
 function Header() {
-    // const location = useLocation();
+    const location = useLocation();
     return (
-        <nav className="navbar navbar-expand-lg navbar-dark">
-            <a className="navbar-brand" href="/">Grant Scriver</a>
+
+        <nav
+            className="navbar navbar-expand-lg navbar-dark"
+        // style="background-color: #454253;"
+        >
+            <a className="navbar-brand" href="./index.html">Grant Scriver</a>
+            {/* <!--Button for responsive design--> */}
             <button
                 className="navbar-toggler"
                 type="button"
@@ -19,42 +24,46 @@ function Header() {
             >
                 <span className="navbar-toggler-icon"></span>
             </button>
-            <div className="collapse navbar-collapse justify-content-end"
-                id="navbarNav"
+            {/* <!--This is where the Navbar is encoded--> */}
+            <div
+                className="collapse navbar-collapse justify-content-end"
+                id="navbarSupportedContent"
             >
                 <ul className="navbar-nav">
                     <li className="nav-item">
-                        <a className="nav-link" href="/">About</a>
-                        {/* <Link
+                        {/* <a className="nav-link" href="/">About</a> */}
+                        <Link
                             to="/"
                             className={location.pathname === "/" ? "nav-link active" : "nav-link"}
                         >
                             About
-                        </Link> */}
+                        </Link>
                     </li>
                     <li className="nav-item">
-                        <a class="nav-link" href="/portfolio">Portfolio</a>
-                        {/* <Link
+                        {/* <a class="nav-link" href="/portfolio">Portfolio</a> */}
+                        <Link
                             to="/portfolio"
                             className={location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
                         >
                             Portfolio
-                        </Link> */}
+                        </Link>
 
                     </li>
                     <li className="nav-item">
-                        <a class="nav-link" href="/contact">Contact</a>
-                        {/* <Link
+                        {/* <a class="nav-link" href="/contact">Contact</a> */}
+                        <Link
                             to="/contact"
                             className={location.pathname === "/contact" ? "nav-link active" : "nav-link"}
                         >
                             Contact
-                        </Link> */}
+                        </Link>
 
                     </li>
                 </ul>
             </div >
         </nav >
+
+
     );
 }
 
